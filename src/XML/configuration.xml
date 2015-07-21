@@ -1,0 +1,85 @@
+<config>
+	<prop>
+		<!--1 VH directly move,2 VH square move,3 nearest Farmer,31 nearest Farmer directly,4 can kill VH-->
+		<version>3</version>
+		<enemy>
+			<speed>3</speed>
+<!--N farmer seeking player			-->
+			<seekNum>1</seekNum>
+			<collision>60</collision>
+			<torchCollision>200</torchCollision>
+<!--			every N seconds, the 2 nearest farmers will take Fang's current position as waypoint and move.-->
+			<seek>2000</seek>
+			<alertRadius>25</alertRadius>
+			<seekRadius>550</seekRadius>
+		</enemy>
+		<hunter>
+			<speed>3</speed>
+			<torchCollision>300</torchCollision>
+		</hunter>
+		<player>
+			<!--cameraDuration should be 5 times bigger than dashDuration-->
+<!--			<cameraDuration>7.5</cameraDuration>-->
+			<dashDuration>10</dashDuration>
+<!--			<cameraSpeed>10</cameraSpeed>-->
+			<dashSpeed>35</dashSpeed>
+			<collision>5</collision>
+			<killPoint>1</killPoint>
+			<feedPoint>2</feedPoint>
+		</player>
+		<debug>false</debug>
+		<level>
+			<!--total couldn't bigger than 30-->
+			<level1>
+				<space>3000</space>
+				<total>10</total>
+				<kill>2</kill>
+			</level1>
+    			<level2>
+				<space>2500</space>
+				<total>15</total>
+				<kill>3</kill>
+			</level2>-->
+			<level3>-->
+				<space>2000</space>
+				<total>20</total>
+				<kill>5</kill>
+			</level3>
+			<level4>
+				<space>1500</space>
+				<total>25</total>
+				<kill>8</kill>
+			</level4>
+			<level5>
+				<space>1000</space>
+				<total>30</total>
+				<kill>10</kill>
+			</level5>
+			<level6>
+				<space>500</space>
+				<total>30</total>
+				<kill>5000</kill>
+			</level6>
+<!--			<level7>
+<!--				<space>5000</space>-->
+<!--				<total>12</total>-->
+<!--				<kill>8</kill>-->
+<!--			</level7>-->
+<!--			<level8>-->
+<!--				<space>5800</space>-->
+<!--				<total>14</total>-->
+<!--				<kill>9</kill>-->
+<!--			</level8>-->
+<!--			<level9>-->
+<!--				<space>5600</space>-->
+<!--				<total>15</total>-->
+<!--				<kill>10</kill>-->
+<!--			</level9>-->
+<!--			<level10>-->
+<!--				<space>5400</space>-->
+<!--				<total>18</total>-->
+<!--				<kill>11</kill>-->
+<!--			</level10>-->
+		</level>
+	</prop>
+</config>

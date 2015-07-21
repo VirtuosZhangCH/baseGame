@@ -1,0 +1,114 @@
+package Configuration
+{
+	import MyDispatcher.DispatchMananger;
+	
+	import MyEvent.MyEvents;
+	
+	import com.virtuos.Manangers.DataMananger;
+	
+	import flash.events.Event;
+	import flash.net.URLLoader;
+	import flash.net.URLLoaderDataFormat;
+	import flash.net.URLRequest;
+
+	public class loadTXT{
+		private var source:String = "map.txt";
+		private var dataFormat:String = URLLoaderDataFormat.TEXT;
+		public static var _mapData:Vector.<uint>;
+		//障碍物数组
+		private static var _barData:Vector.<Object>;
+		//敌人数组
+		private var sourceXML:String = "XML/configuration.xml";
+//		private static var _eneData:Vector.<uint>;
+		private var _isDebug:Boolean;
+		
+		public function loadTXT():void {
+			var loader:URLLoader = new URLLoader();
+			loader.dataFormat = dataFormat;
+			configureListeners(loader);
+			var request:URLRequest = new URLRequest(source);
+			try {
+				loader.load(request);
+			} catch (error:Error) {
+				trace("Error loading requested document: " + source);
+			}
+			//xml
+			var loaderXML:URLLoader = new URLLoader();			
+			loaderXML.addEventListener(Event.COMPLETE, completeHandlerXML);
+			var requestXML:URLRequest = new URLRequest(sourceXML);
+			loaderXML.load(requestXML);
+		}
+		private function completeHandlerXML(event:Event):void{
+			var myXml:XML=XML(event.target.data);
+			//player
+			//DataMananger._cameraDuration=myXml.prop.player.cameraDuration;
+			DataMananger._dashDuration=myXml.prop.player.dashDuration;
+			//DataMananger._cameraSpeed=myXml.prop.player.cameraSpeed;
+			DataMananger._dashSpeed=myXml.prop.player.dashSpeed;
+			DataMananger._killPoint=myXml.prop.player.killPoint;
+			DataMananger._feedPoint=myXml.prop.player.feedPoint;
+			DataMananger._feedPoint=myXml.prop.player.feedPoint;
+			//enemy
+			DataMananger._enemySpeed=myXml.prop.enemy.speed;
+			DataMananger._enemyCollision=myXml.prop.enemy.collision;
+			DataMananger._torchCollision=myXml.prop.enemy.torchCollision;
+			
+			if(myXml.prop.debug == "false")
+				_isDebug = false;
+			else
+				_isDebug = true;
+			
+			DataMananger._versionDebug = _isDebug;
+			
+			DispatchMananger._em3D.dispatchEvent(new MyEvents('configCharacter',null));
+		}
+		private function configureListeners(dispatcher:URLLoader):void {
+			dispatcher.addEventListener(Event.COMPLETE, completeHandler);		
+		}
+		//private function configureListenerXML
+		private function completeHandler(event:Event):void {
+			var loader:URLLoader = URLLoader(event.target);
+			//trace(event.target.data)
+			switch(loader.dataFormat) {
+				case URLLoaderDataFormat.TEXT :
+//					trace("completeHandler (text): " + loader.data,loader.data.length);
+					var tempStr:String=loader.data
+//					trace(tempStr.charAt(26)=="\n")
+//					for(var i:uint=1;i<=19;i++){
+//						for(var j:uint=1;j<=27;j++){
+//							var k:uint=i*j
+//							if(tempStr.charAt(i*j)=="0"||tempStr.charAt(i*j)=="1"||tempStr.charAt(i*j)=="2")
+////							_mapData.push(tempStr.charAt(i*j-1))
+//							trace(i*j-1,tempStr.charAt(i*j-1))
+//						}
+//					}
+					_mapData = new Vector.<uint>();
+					_barData=new Vector.<Object>();
+					var _tempVec:Array//=new Vector.<uint>();
+					for(var i:uint=0;i<tempStr.length;i++){
+						trace(tempStr.charAt(i))
+						if(tempStr.charAt(i)=="0"||tempStr.charAt(i)=="1"||tempStr.charAt(i)=="2"||tempStr.charAt(i)=="3"||tempStr.charAt(i)=="4"||tempStr.charAt(i)=="5"||tempStr.charAt(i)=="6"||tempStr.charAt(i)=="7")
+							_mapData.push(uint(tempStr.charAt(i)))
+								if(uint(tempStr.charAt(i))>0){	
+									_tempVec=new Array(_mapData.length,uint(tempStr.charAt(i)));
+									//trace(_tempVec[1])
+									_barData.push(_tempVec);
+									_tempVec=null;
+								}
+					}
+					//if(tempStr.charAt(tempStr.length-1)!="0"){
+						//trace("lase:",tempStr.charAt(tempStr.length))
+						//DispatchMananger._em2D.dispatchEvent(new Event('configMap'));
+					//}
+						//DispatchMananger._em3D.addEventListener('configGame',_barData)
+					//trace(_barData);
+					DispatchMananger._em3D.dispatchEvent(new MyEvents('configGame',_barData));
+					//VampireDemo._em3D.dispatchEvent(new MyEvents('configEnemy',_eneData));
+					_mapData=new Vector.<uint>;
+					_mapData=null;
+//					trace(_barData)
+					break;				
+			}
+		}
+	}
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<displayobjects  path="../XML/BitmapTable_UI.xml">
+	<movieclip name="movie.ui.Circle">
+		<layer number="1">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="20" script="stop();">
+			</keyFrame>
+		</layer>
+		<layer number="2">
+			<keyFrame number="1">
+				<child depth="0" instanceName="circle0001.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="2">
+				<child depth="0" instanceName="circle0002.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="3">
+				<child depth="0" instanceName="circle0003.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="4">
+				<child depth="0" instanceName="circle0004.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="5">
+				<child depth="0" instanceName="circle0005.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="6">
+				<child depth="0" instanceName="circle0006.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="7">
+				<child depth="0" instanceName="circle0007.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="8">
+				<child depth="0" instanceName="circle0008.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="9">
+				<child depth="0" instanceName="circle0009.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="circle0010.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="11">
+				<child depth="0" instanceName="circle0011.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="12">
+				<child depth="0" instanceName="circle0012.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="13">
+				<child depth="0" instanceName="circle0013.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="14">
+				<child depth="0" instanceName="circle0014.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="15">
+				<child depth="0" instanceName="circle0015.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="16">
+				<child depth="0" instanceName="circle0016.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="17">
+				<child depth="0" instanceName="circle0017.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="18">
+				<child depth="0" instanceName="circle0018.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="19">
+				<child depth="0" instanceName="circle0019.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="20">
+				<child depth="0" instanceName="circle0020.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+</displayobjects>

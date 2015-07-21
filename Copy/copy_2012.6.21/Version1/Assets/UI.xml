@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<displayobjects  path="Assets/BitmapTable_UI.xml">
+	<movieclip name="movie.ui.Circle">
+		<layer number="1">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="20" script="stop();">
+			</keyFrame>
+		</layer>
+		<layer number="2">
+			<keyFrame number="1">
+				<child depth="0" instanceName="circle0001.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="2">
+				<child depth="0" instanceName="circle0002.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="3">
+				<child depth="0" instanceName="circle0003.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="4">
+				<child depth="0" instanceName="circle0004.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="5">
+				<child depth="0" instanceName="circle0005.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="6">
+				<child depth="0" instanceName="circle0006.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="7">
+				<child depth="0" instanceName="circle0007.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="8">
+				<child depth="0" instanceName="circle0008.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="9">
+				<child depth="0" instanceName="circle0009.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="circle0010.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="11">
+				<child depth="0" instanceName="circle0011.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="12">
+				<child depth="0" instanceName="circle0012.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="13">
+				<child depth="0" instanceName="circle0013.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="14">
+				<child depth="0" instanceName="circle0014.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="15">
+				<child depth="0" instanceName="circle0015.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="16">
+				<child depth="0" instanceName="circle0016.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="17">
+				<child depth="0" instanceName="circle0017.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="18">
+				<child depth="0" instanceName="circle0018.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="19">
+				<child depth="0" instanceName="circle0019.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="20">
+				<child depth="0" instanceName="circle0020.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmer_blood004">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="farmer001" type="bitmap" linkage="0" prototypeName="0" x="2.8" y="-0.45" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmer_blood005">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="blood001" type="bitmap" linkage="0" prototypeName="0" x="1.1" y="-3.3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmer_blood006">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="blood003" type="bitmap" linkage="0" prototypeName="0" x="0" y="0.25" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmer_blood007">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="blood002" type="bitmap" linkage="0" prototypeName="0" x="0" y="-0.3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmer_warn_man">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="warm_mark" type="movieclip" linkage="0" prototypeName="warn_mark" x="4.95" y="-37.4" scaleX="1" scaleY="0.7168121337890625" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0.0008697509765625" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="2">
+			<keyFrame number="1">
+				<child depth="0" instanceName="farmer_scout01.png" type="bitmap" linkage="0" prototypeName="0" x="-27" y="-15" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmer01">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="farmer001" type="movieclip" linkage="0" prototypeName="farmer02" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="8">
+				<child depth="0" instanceName="farmer001" type="movieclip" linkage="0" prototypeName="farmer02" x="0" y="1.25" scaleX="1" scaleY="0.9744873046875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="1" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="16">
+				<child depth="0" instanceName="farmer001" type="movieclip" linkage="0" prototypeName="farmer02" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="1" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmer02">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="farmer_scout01.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmerBlood">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="blood004" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmerDie">
+		<layer number="1">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="farmer_die04.png" type="bitmap" linkage="0" prototypeName="0" x="8.05" y="43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="11">
+				<child depth="0" instanceName="farmer_die04.png" type="bitmap" linkage="0" prototypeName="0" x="10.05" y="43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="12">
+				<child depth="0" instanceName="farmer_die04.png" type="bitmap" linkage="0" prototypeName="0" x="15.05" y="43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="13">
+				<child depth="0" instanceName="farmer_die04.png" type="bitmap" linkage="0" prototypeName="0" x="23.05" y="43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="37">
+				<child depth="0" instanceName="farmer_die04.png" type="bitmap" linkage="0" prototypeName="0" x="23.05" y="43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="2">
+			<keyFrame number="1">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="-47" y="0.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="2">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="-37.35" y="-5.45" scaleX="0.9994049072265625" scaleY="0.9994049072265625" centerPointX="0" centerPointY="0" rotate="0.19214919990037707" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="11.00933837890625" skewVertial="11.00933837890625"/>
+			</keyFrame>
+			<keyFrame number="3">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="-23.15" y="-10.4" scaleX="0.9985809326171875" scaleY="0.9985809326171875" centerPointX="0" centerPointY="0" rotate="0.4463500521411133" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="25.573974609375" skewVertial="25.573974609375"/>
+			</keyFrame>
+			<keyFrame number="4">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="-8.45" y="-11.55" scaleX="0.9977874755859375" scaleY="0.9977874755859375" centerPointX="0" centerPointY="0" rotate="0.6959835831902736" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="39.876922607421875" skewVertial="39.876922607421875"/>
+			</keyFrame>
+			<keyFrame number="5">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="-10.6" scaleX="0.997314453125" scaleY="0.997314453125" centerPointX="0" centerPointY="0" rotate="0.840579113161265" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="48.16163635253906" skewVertial="48.16163635253906"/>
+			</keyFrame>
+			<keyFrame number="6">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="10.4" y="-7.6" scaleX="0.9967193603515625" scaleY="0.9967193603515625" centerPointX="0" centerPointY="0" rotate="1.0241124544499884" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="58.67732238769531" skewVertial="58.67732238769531"/>
+			</keyFrame>
+			<keyFrame number="7">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="18.55" y="-3.7" scaleX="0.996246337890625" scaleY="0.996246337890625" centerPointX="0" centerPointY="0" rotate="1.1774450168601651" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="67.46263122558594" skewVertial="67.46263122558594"/>
+			</keyFrame>
+			<keyFrame number="8">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="22.25" y="-1.35" scaleX="0.996002197265625" scaleY="0.996002197265625" centerPointX="0" centerPointY="0" rotate="1.2520332335021125" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="71.73622131347656" skewVertial="71.73622131347656"/>
+			</keyFrame>
+			<keyFrame number="9">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="27.55" y="2.8" scaleX="0.9956512451171875" scaleY="0.9956512451171875" centerPointX="0" centerPointY="0" rotate="1.3656982784683227" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="78.24874877929688" skewVertial="78.24874877929688"/>
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="farmer_die01.png" type="bitmap" linkage="0" prototypeName="0" x="-39.95" y="4.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="37">
+				<child depth="0" instanceName="farmer_die01.png" type="bitmap" linkage="0" prototypeName="0" x="-39.95" y="4.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="3">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-14.35" y="31.15" scaleX="0.3582000732421875" scaleY="0.3582000732421875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="11">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-22.45" y="31.25" scaleX="0.534271240234375" scaleY="0.534271240234375" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="12">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-25.6" y="31.3" scaleX="0.6020050048828125" scaleY="0.6020050048828125" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="13">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-32.4" y="31.35" scaleX="0.74951171875" scaleY="0.74951171875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="14">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-36.3" y="31.4" scaleX="0.83489990234375" scaleY="0.83489990234375" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="15">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-38.95" y="31.45" scaleX="0.891632080078125" scaleY="0.891632080078125" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="16">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-41.85" y="31.5" scaleX="0.9545440673828125" scaleY="0.9545440673828125" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="17">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-43.95" y="31.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="37">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-43.95" y="31.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="4">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="blood" type="movieclip" linkage="0" prototypeName="farmerBlood" x="-34.45" y="-5.3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="14">
+				<child depth="0" instanceName="blood" type="movieclip" linkage="0" prototypeName="farmerBlood" x="-34.45" y="-5.3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="1" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="18">
+				<child depth="0" instanceName="blood" type="movieclip" linkage="0" prototypeName="farmerBlood" x="-34.45" y="-5.3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="1" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="37">
+				<child depth="0" instanceName="blood" type="movieclip" linkage="0" prototypeName="farmerBlood" x="-34.45" y="-5.3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="5">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="18">
+				<child depth="0" instanceName="soul" type="movieclip" linkage="0" prototypeName="farmerSoul" x="-42.95" y="-43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="27">
+				<child depth="0" instanceName="soul" type="movieclip" linkage="0" prototypeName="farmerSoul" x="-42.95" y="-50.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="1" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="37">
+				<child depth="0" instanceName="soul" type="movieclip" linkage="0" prototypeName="farmerSoul" x="-42.95" y="-58.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="1" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmerScout">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="farmer_scout01.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="12">
+				<child depth="0" instanceName="farmer_scout02.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="25">
+				<child depth="0" instanceName="farmer_scout01.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmerSoul">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="farmer_die05.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmerSpewBlood">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="farmer_spewBlood" type="movieclip" linkage="0" prototypeName="farmer01" x="-36.75" y="-8.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="17">
+				<child depth="0" instanceName="farmer_spewBlood" type="movieclip" linkage="0" prototypeName="farmer01" x="-36.75" y="-8.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="2">
+			<keyFrame number="1">
+				<child depth="0" instanceName="blood04" type="movieclip" linkage="0" prototypeName="farmer_blood006" x="5.5" y="13.8" scaleX="1.628387451171875" scaleY="1.628387451171875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="5">
+				<child depth="0" instanceName="blood04" type="movieclip" linkage="0" prototypeName="farmer_blood006" x="13.85" y="14.15" scaleX="1.628387451171875" scaleY="1.628387451171875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="1" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="blood04" type="movieclip" linkage="0" prototypeName="farmer_blood006" x="21.8" y="17.85" scaleX="1.98687744140625" scaleY="1.98687744140625" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="1" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="17">
+				<child depth="0" instanceName="blood04" type="movieclip" linkage="0" prototypeName="farmer_blood006" x="21.8" y="17.85" scaleX="1.98687744140625" scaleY="1.98687744140625" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="3">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="6">
+				<child depth="0" instanceName="blood03" type="movieclip" linkage="0" prototypeName="farmer_blood007" x="-4.4" y="10.5" scaleX="1.625762939453125" scaleY="1.625762939453125" centerPointX="0" centerPointY="0" rotate="-0.6999157404727003" tweenStart="1" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="-40.10221862792969" skewVertial="-40.10221862792969"/>
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="blood03" type="movieclip" linkage="0" prototypeName="farmer_blood007" x="3.55" y="-2.1" scaleX="1.6236724853515625" scaleY="1.6236724853515625" centerPointX="0" centerPointY="0" rotate="-0.25374811486314564" tweenStart="1" tweenEnd="1" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="-14.5386962890625" skewVertial="-14.5386962890625"/>
+			</keyFrame>
+			<keyFrame number="17">
+				<child depth="0" instanceName="blood03" type="movieclip" linkage="0" prototypeName="farmer_blood007" x="6.3" y="-7.5" scaleX="1.9811248779296875" scaleY="1.9811248779296875" centerPointX="0" centerPointY="0" rotate="-0.25374811486314564" tweenStart="0" tweenEnd="1" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="-14.5386962890625" skewVertial="-14.5386962890625"/>
+			</keyFrame>
+		</layer>
+		<layer number="4">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="4">
+				<child depth="0" instanceName="blood02" type="movieclip" linkage="0" prototypeName="farmer_blood005" x="-4.8" y="-0.9" scaleX="1.628387451171875" scaleY="1.628387451171875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="7">
+				<child depth="0" instanceName="blood02" type="movieclip" linkage="0" prototypeName="farmer_blood005" x="-4.95" y="-6.8" scaleX="1.6266632080078125" scaleY="1.6266632080078125" centerPointX="0" centerPointY="0" rotate="-0.3538789754004415" tweenStart="1" tweenEnd="1" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="-20.275772094726562" skewVertial="-20.275772094726562"/>
+			</keyFrame>
+			<keyFrame number="13">
+				<child depth="0" instanceName="blood02" type="movieclip" linkage="0" prototypeName="farmer_blood005" x="-9.05" y="-16.7" scaleX="1.9847869873046875" scaleY="1.9847869873046875" centerPointX="0" centerPointY="0" rotate="-0.3538789754004415" tweenStart="0" tweenEnd="1" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="-20.275772094726562" skewVertial="-20.275772094726562"/>
+			</keyFrame>
+			<keyFrame number="17">
+				<child depth="0" instanceName="blood02" type="movieclip" linkage="0" prototypeName="farmer_blood005" x="-9.05" y="-16.7" scaleX="1.9847869873046875" scaleY="1.9847869873046875" centerPointX="0" centerPointY="0" rotate="-0.3538789754004415" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="-20.275772094726562" skewVertial="-20.275772094726562"/>
+			</keyFrame>
+		</layer>
+		<layer number="5">
+			<keyFrame number="1">
+				<child depth="0" instanceName="blood01" type="movieclip" linkage="0" prototypeName="farmer_blood004" x="-5.5" y="7.55" scaleX="1.628387451171875" scaleY="1.628387451171875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="8">
+				<child depth="0" instanceName="blood01" type="movieclip" linkage="0" prototypeName="farmer_blood004" x="17.05" y="2.35" scaleX="1.98687744140625" scaleY="1.98687744140625" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="1" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="17">
+				<child depth="0" instanceName="blood01" type="movieclip" linkage="0" prototypeName="farmer_blood004" x="17.05" y="2.35" scaleX="1.98687744140625" scaleY="1.98687744140625" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmerWalk">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="farmer_walk02.png" type="bitmap" linkage="0" prototypeName="0" x="-25" y="-25" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="7">
+				<child depth="0" instanceName="farmer_walk03.png" type="bitmap" linkage="0" prototypeName="0" x="-25" y="-25" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="13">
+				<child depth="0" instanceName="farmer_walk04.png" type="bitmap" linkage="0" prototypeName="0" x="-25" y="-25" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="18">
+				<child depth="0" instanceName="farmer_walk04.png" type="bitmap" linkage="0" prototypeName="0" x="-25" y="-25" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="ui.farmer.FarmerStatus">
+		<layer number="1">
+			<keyFrame number="1" label="farmer_walk">
+			</keyFrame>
+			<keyFrame number="2" label="farmer_scout">
+			</keyFrame>
+			<keyFrame number="3" label="farmer_sprayBlood">
+			</keyFrame>
+			<keyFrame number="4" label="farmer_warn">
+			</keyFrame>
+		</layer>
+		<layer number="2">
+			<keyFrame number="1">
+				<child depth="0" instanceName="walk_status" type="movieclip" linkage="0" prototypeName="farmerWalk" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="2">
+				<child depth="0" instanceName="scout_status" type="movieclip" linkage="0" prototypeName="farmerScout" x="-25" y="-26" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="3">
+				<child depth="0" instanceName="sprayBlood_status" type="movieclip" linkage="0" prototypeName="farmerSpewBlood" x="10.75" y="-16.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="4">
+				<child depth="0" instanceName="warn_status" type="movieclip" linkage="0" prototypeName="farmer_warn_man" x="2" y="-11" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="warn_mark">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="warn001" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmer_die">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="die_status" type="movieclip" linkage="0" prototypeName="ui.farmer.animation.FarmerDie" x="22" y="-26.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="ui.farmer.animation.FarmerDie">
+		<layer number="1">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="37" script="stop();">
+			</keyFrame>
+		</layer>
+		<layer number="2">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="farmer_die04.png" type="bitmap" linkage="0" prototypeName="0" x="8.05" y="43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="11">
+				<child depth="0" instanceName="farmer_die04.png" type="bitmap" linkage="0" prototypeName="0" x="10.05" y="43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="12">
+				<child depth="0" instanceName="farmer_die04.png" type="bitmap" linkage="0" prototypeName="0" x="15.05" y="43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="13">
+				<child depth="0" instanceName="farmer_die04.png" type="bitmap" linkage="0" prototypeName="0" x="23.05" y="43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="37">
+				<child depth="0" instanceName="farmer_die04.png" type="bitmap" linkage="0" prototypeName="0" x="23.05" y="43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="3">
+			<keyFrame number="1">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="-47" y="0.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="2">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="-37.35" y="-5.45" scaleX="0.9994049072265625" scaleY="0.9994049072265625" centerPointX="0" centerPointY="0" rotate="0.19214919990037707" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="11.00933837890625" skewVertial="11.00933837890625"/>
+			</keyFrame>
+			<keyFrame number="3">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="-23.15" y="-10.4" scaleX="0.9985809326171875" scaleY="0.9985809326171875" centerPointX="0" centerPointY="0" rotate="0.4463500521411133" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="25.573974609375" skewVertial="25.573974609375"/>
+			</keyFrame>
+			<keyFrame number="4">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="-8.45" y="-11.55" scaleX="0.9977874755859375" scaleY="0.9977874755859375" centerPointX="0" centerPointY="0" rotate="0.6959835831902736" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="39.876922607421875" skewVertial="39.876922607421875"/>
+			</keyFrame>
+			<keyFrame number="5">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="-10.6" scaleX="0.997314453125" scaleY="0.997314453125" centerPointX="0" centerPointY="0" rotate="0.840579113161265" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="48.16163635253906" skewVertial="48.16163635253906"/>
+			</keyFrame>
+			<keyFrame number="6">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="10.4" y="-7.6" scaleX="0.9967193603515625" scaleY="0.9967193603515625" centerPointX="0" centerPointY="0" rotate="1.0241124544499884" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="58.67732238769531" skewVertial="58.67732238769531"/>
+			</keyFrame>
+			<keyFrame number="7">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="18.55" y="-3.7" scaleX="0.996246337890625" scaleY="0.996246337890625" centerPointX="0" centerPointY="0" rotate="1.1774450168601651" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="67.46263122558594" skewVertial="67.46263122558594"/>
+			</keyFrame>
+			<keyFrame number="8">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="22.25" y="-1.35" scaleX="0.996002197265625" scaleY="0.996002197265625" centerPointX="0" centerPointY="0" rotate="1.2520332335021125" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="71.73622131347656" skewVertial="71.73622131347656"/>
+			</keyFrame>
+			<keyFrame number="9">
+				<child depth="0" instanceName="farmer000.png" type="bitmap" linkage="0" prototypeName="0" x="27.55" y="2.8" scaleX="0.9956512451171875" scaleY="0.9956512451171875" centerPointX="0" centerPointY="0" rotate="1.3656982784683227" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="78.24874877929688" skewVertial="78.24874877929688"/>
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="farmer_die01.png" type="bitmap" linkage="0" prototypeName="0" x="-39.95" y="4.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="37">
+				<child depth="0" instanceName="farmer_die01.png" type="bitmap" linkage="0" prototypeName="0" x="-39.95" y="4.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="4">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-14.35" y="31.15" scaleX="0.3582000732421875" scaleY="0.3582000732421875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="11">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-22.45" y="31.25" scaleX="0.534271240234375" scaleY="0.534271240234375" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="12">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-25.6" y="31.3" scaleX="0.6020050048828125" scaleY="0.6020050048828125" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="13">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-32.4" y="31.35" scaleX="0.74951171875" scaleY="0.74951171875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="14">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-36.3" y="31.4" scaleX="0.83489990234375" scaleY="0.83489990234375" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="15">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-38.95" y="31.45" scaleX="0.891632080078125" scaleY="0.891632080078125" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="16">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-41.85" y="31.5" scaleX="0.9545440673828125" scaleY="0.9545440673828125" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="17">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-43.95" y="31.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="37">
+				<child depth="0" instanceName="farmer_die02.png" type="bitmap" linkage="0" prototypeName="0" x="-43.95" y="31.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="5">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="10">
+				<child depth="0" instanceName="blood" type="movieclip" linkage="0" prototypeName="farmerBlood" x="-34.45" y="-5.3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="14">
+				<child depth="0" instanceName="blood" type="movieclip" linkage="0" prototypeName="farmerBlood" x="-34.45" y="-5.3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="18">
+				<child depth="0" instanceName="blood" type="movieclip" linkage="0" prototypeName="farmerBlood" x="-34.45" y="-5.3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="37">
+				<child depth="0" instanceName="blood" type="movieclip" linkage="0" prototypeName="farmerBlood" x="-34.45" y="-5.3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="6">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="18">
+				<child depth="0" instanceName="soul" type="movieclip" linkage="0" prototypeName="farmerSoul" x="-42.95" y="-43.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="27">
+				<child depth="0" instanceName="soul" type="movieclip" linkage="0" prototypeName="farmerSoul" x="-42.95" y="-50.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="37">
+				<child depth="0" instanceName="soul" type="movieclip" linkage="0" prototypeName="farmerSoul" x="-42.95" y="-58.5" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="0" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmerBlood">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="blood004" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="farmerSoul">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="farmer_die05.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="play_feed">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="feed_mc1" type="movieclip" linkage="0" prototypeName="play_mc4" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="13">
+				<child depth="0" instanceName="feed_mc1" type="movieclip" linkage="0" prototypeName="play_mc4" x="0" y="3" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="1" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="25">
+				<child depth="0" instanceName="feed_mc1" type="movieclip" linkage="0" prototypeName="play_mc4" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="1" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="play_die">
+		<layer number="1">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="31">
+				<child depth="0" instanceName="burn3" type="movieclip" linkage="0" prototypeName="play_mc2" x="-12" y="19.5" scaleX="0.29998779296875" scaleY="0.29998779296875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="1" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="49">
+				<child depth="0" instanceName="burn3" type="movieclip" linkage="0" prototypeName="play_mc2" x="-33" y="11.35" scaleX="0.8441619873046875" scaleY="0.8441619873046875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="1" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="2">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="31">
+				<child depth="0" instanceName="burn2" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="-23.05" scaleX="1" scaleY="1.067901611328125" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="32">
+				<child depth="0" instanceName="burn2" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="-18.8" scaleX="1" scaleY="0.97003173828125" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="33">
+				<child depth="0" instanceName="burn2" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="-15.05" scaleX="1" scaleY="0.8844757080078125" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="34">
+				<child depth="0" instanceName="burn2" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="-8.8" scaleX="1" scaleY="0.741302490234375" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="35">
+				<child depth="0" instanceName="burn2" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="-4.55" scaleX="1" scaleY="0.6434326171875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="36">
+				<child depth="0" instanceName="burn2" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="1.2" scaleX="1" scaleY="0.51104736328125" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="37">
+				<child depth="0" instanceName="burn2" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="4.7" scaleX="1" scaleY="0.4306640625" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="38">
+				<child depth="0" instanceName="burn2" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="7.95" scaleX="1" scaleY="0.3560028076171875" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="39">
+				<child depth="0" instanceName="burn2" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="11.2" scaleX="1" scaleY="0.2812042236328125" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="40">
+				<child depth="0" instanceName="burn2" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="15.2" scaleX="1" scaleY="0.18951416015625" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="41">
+				<child depth="0" instanceName="burn3" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="15.2" scaleX="1" scaleY="0.18951416015625" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="49">
+				<child depth="0" instanceName="burn3" type="movieclip" linkage="0" prototypeName="play_mc3" x="-3.2" y="15.2" scaleX="1" scaleY="0.18951416015625" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="3">
+			<keyFrame number="1">
+				<child depth="0" instanceName="burn1" type="movieclip" linkage="0" prototypeName="play_mc1" x="-32" y="-36" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="30">
+				<child depth="0" instanceName="burn" type="movieclip" linkage="0" prototypeName="play_mc1" x="-32" y="-36" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="31">
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="play_idle">
+		<layer number="1">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="25">
+				<child depth="0" instanceName="vampire_breath02.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="33">
+				<child depth="0" instanceName="vampire_breath02.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+		<layer number="2">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="17">
+				<child depth="0" instanceName="vampire_breath03.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="24">
+				<child depth="0" instanceName="vampire_breath03.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="25">
+			</keyFrame>
+		</layer>
+		<layer number="3">
+			<keyFrame number="1">
+			</keyFrame>
+			<keyFrame number="9">
+				<child depth="0" instanceName="vampire_breath02.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="16">
+				<child depth="0" instanceName="vampire_breath02.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="17">
+			</keyFrame>
+		</layer>
+		<layer number="4">
+			<keyFrame number="1">
+				<child depth="0" instanceName="vampire_breath01.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+				<child depth="1" instanceName="vampire_breath01.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+				<child depth="2" instanceName="vampire_breath01.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+				<child depth="3" instanceName="vampire_breath01.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+				<child depth="4" instanceName="vampire_breath01.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="8">
+				<child depth="0" instanceName="vampire_breath01.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+				<child depth="1" instanceName="vampire_breath01.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+				<child depth="2" instanceName="vampire_breath01.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+				<child depth="3" instanceName="vampire_breath01.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+				<child depth="4" instanceName="vampire_breath01.png" type="bitmap" linkage="0" prototypeName="0" x="-33.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="9">
+			</keyFrame>
+		</layer>
+		<layer number="5">
+			<keyFrame number="1">
+				<child depth="0" instanceName="vampire_breath00.png" type="bitmap" linkage="0" prototypeName="0" x="-32.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="33">
+				<child depth="0" instanceName="vampire_breath00.png" type="bitmap" linkage="0" prototypeName="0" x="-32.5" y="-37" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="play_mc1">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="vampire_die.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="play_mc2">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="vampire_die02.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="play_mc3">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="vampire_die04" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="ui.play.VampireStatus">
+		<layer number="1">
+			<keyFrame number="1" label="play_idle">
+			</keyFrame>
+			<keyFrame number="2" label="play_die">
+			</keyFrame>
+			<keyFrame number="3" label="play_feed">
+			</keyFrame>
+		</layer>
+		<layer number="2">
+			<keyFrame number="1">
+				<child depth="0" instanceName="idle_mc" type="movieclip" linkage="0" prototypeName="play_idle" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="2">
+				<child depth="0" instanceName="die_mc" type="movieclip" linkage="0" prototypeName="play_die" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+			<keyFrame number="3">
+				<child depth="0" instanceName="feed_mc" type="movieclip" linkage="0" prototypeName="play_feed" x="-50" y="-45" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="1" Green="1" Blue="1" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+	<movieclip name="play_mc4">
+		<layer number="1">
+			<keyFrame number="1">
+				<child depth="0" instanceName="vampire_redeyes.png" type="bitmap" linkage="0" prototypeName="0" x="0" y="0" scaleX="1" scaleY="1" centerPointX="0" centerPointY="0" rotate="0" tweenStart="0" tweenEnd="0" colorEffect="0" filters="0" alpha="1" Brightness="0" Tint="0" Red="0" Green="0" Blue="0" skewHorizontal="0" skewVertial="0"/>
+			</keyFrame>
+		</layer>
+	</movieclip>
+</displayobjects>

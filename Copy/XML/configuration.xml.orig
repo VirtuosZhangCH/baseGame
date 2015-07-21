@@ -1,0 +1,20 @@
+<config>
+	<prop>
+		<enemy>
+			<speed>2</speed>
+			<collision>50</collision>
+			<torchCollision>200</torchCollision>
+		</enemy>
+		<player>
+			<!--cameraDuration should be 5 times bigger than dashDuration-->
+<!--			<cameraDuration>7.5</cameraDuration>-->
+			<dashDuration>7</dashDuration>
+<!--			<cameraSpeed>10</cameraSpeed>-->
+			<dashSpeed>35</dashSpeed>
+			<collision>5</collision>
+			<killPoint>1</killPoint>
+			<feedPoint>2</feedPoint>
+		</player>
+		<debug>false</debug>
+	</prop>
+</config>

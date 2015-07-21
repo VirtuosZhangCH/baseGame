@@ -1,0 +1,59 @@
+package com.virtuos.Characters
+{
+	import com.virtuos.Manangers.DataMananger;
+	import com.virtuos.SpriteContainer3D;
+	import com.virtuos.display.MovieClip;
+	import com.virtuos.display.SWF;
+	import com.virtuos.loader.Loader3D;
+	
+	import starling.display.Image;
+	
+	public class Farmer extends SpriteContainer3D
+	{
+		[Embed(source="Assets/farmer.png")]
+		private var _Farmer:Class;
+		[Embed(source="Assets/farmer_view.png")]
+		private var _Torch:Class;
+		private var tempFarmer:Image;
+		private var tempTorch:Image;
+		public var _id:uint;
+		public static  var _status:com.virtuos.display.MovieClip;
+		
+		public function Farmer()
+		{
+			super();
+			tempFarmer=Image.fromBitmap(new _Farmer)
+			tempTorch=Image.fromBitmap(new _Torch)
+			addChild(tempTorch)
+			addChild(tempFarmer);
+			tempFarmer.dispose();
+			tempTorch.dispose();
+			tempFarmer.width=tempFarmer.height=50;
+			//tempFarmer.x=tempFarmer.y=-25;
+			tempTorch.width=tempTorch.height=DataMananger._torchCollision;
+			tempTorch.x=tempTorch.y=35-DataMananger._torchCollision>>1;
+			
+//			_status=(Loader3D.getInstance().resourceLibrary["UI"] as SWF).getMCInstance("ui.farmer.FarmerStatus")
+//			_status.x= _status.y = 25;
+//			addChild(_status);
+//			_status.gotoAndStop(1);
+		}
+		
+		public function animationControll($frame:int = 1):void
+		{
+//			_status.gotoAndStop($frame);
+		}
+		
+		
+		public function setPosition(_tempX:Number,_tempY:Number):void{
+			this.x=_tempX//-25;
+			this.y=_tempY//-25;
+			tempTorch.visible=true;
+		}
+		//torch disapp
+		public function _removeTorch():void{
+			//removeChild(tempTorch)
+			tempTorch.visible=false;
+		}
+	}
+}

@@ -1,0 +1,44 @@
+package
+{
+	import MyDispatcher.Dispatcher2D;
+	
+	import flash.display.Graphics;
+	import flash.display.Sprite;
+	import flash.display.StageAlign;
+	import flash.display.StageScaleMode;
+	import flash.events.Event;
+	import flash.events.MouseEvent;
+	
+	import starling.core.Starling;
+	
+	[SWF(width="1024", height="768", frameRate="60", backgroundColor="#222222")]
+	public class E3Vampire extends Sprite
+	{
+		private var mStarling:Starling;
+		public function E3Vampire()
+		{
+			super();
+			//
+//			var p:Graphics=graphics;
+//			p.lineStyle(1,0x00ff00);
+//			p.moveTo(1024/2,0)
+//			p.lineTo(1024/2,768)
+//			graphics.moveTo(0,768/2);
+//			graphics.lineTo(1024,768/2);
+			
+			
+			stage.align = StageAlign.TOP_LEFT;
+			stage.scaleMode = StageScaleMode.NO_SCALE;
+			
+			GlobalValue.root=this;
+			GlobalValue.init(this);
+			
+			//start starling
+			mStarling = new Starling(main3D, stage);
+			mStarling.start();
+			mStarling.simulateMultitouch=false;
+			mStarling.showStats=true;
+			
+		}
+	}
+}

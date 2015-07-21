@@ -1,0 +1,18 @@
+package com.virtuos.Managers
+{
+	import com.virtuos.BaseAI.PathFinder;
+	import com.virtuos.Characters.VampireHunter;
+
+	/***
+	 *vampireHunter AI
+	 ***/
+	public class HunterManager
+	{
+		private var _speed:uint=2;		
+		public static function enemyAI(_vam:VampireHunter,_remove:Boolean=false):void{
+			var _myX:uint=(_vam.y+25)/50;
+			var _myY:uint=(_vam.x+25)/50;
+			PathFinder.findPath(DataManager._mapArray,_myX,_myY,_vam.myDistinationX,_vam.myDistinationY,_vam)
+		}
+	}
+}
